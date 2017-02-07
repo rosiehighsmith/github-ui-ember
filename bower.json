@@ -1,5 +1,11 @@
 {
   "name": "github-ui-rh",
   "dependencies": {
+    "bourbon": "4.2.6",
+    "ember": "beta",
+    "ember-data": "beta"
+  },
+  "resolutions": {
+    "ember": "beta"
   }
 }
